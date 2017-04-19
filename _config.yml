@@ -1,4 +1,4 @@
-﻿theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal
 gem "github-pages", group: :jekyll_plugins
 title: [Pierre-Louis Stenger]
 description: [Portfolio]
