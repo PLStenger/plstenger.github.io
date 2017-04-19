@@ -1,4 +1,5 @@
-theme: jekyll-theme-minimal
-gem "github-pages", group: :jekyll_plugins
-title: [Pierre-Louis Stenger]
-description: [Portfolio]
+title: Minimal theme
+description: Minimal is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: 
