@@ -98,7 +98,7 @@ end
 
 ### Large image
 
-![](https://guides.github.com/activities/hello-world/branching.png)
+![Pearl oysters](E:\plstenger.github.io\pinctada_margaritifera)
 
 
 ### Definition lists can be used with HTML syntax.
