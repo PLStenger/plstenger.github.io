@@ -98,7 +98,7 @@ end
 
 ### Large image
 
-![Pearl oysters](E:\plstenger.github.io\pinctada_margaritifera)
+![Pearl oysters](E:\plstenger.github.io\pinctada_margaritifera.png)
 
 
 ### Definition lists can be used with HTML syntax.
