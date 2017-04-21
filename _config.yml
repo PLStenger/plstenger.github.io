@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Titre du site ?"
+title                    : "Titre du site"
 title_separator          : "-"
 name                     : "Pierre-Louis Stenger"
 description              : "Portfolio"
@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :@StengerPL
+  username               : "@StengerPL"
 facebook:
   username               :
   app_id                 :
@@ -100,7 +100,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          : @StengerPL
+  twitter          : "@StengerPL"
   vine             :
   weibo            :
   xing             :
