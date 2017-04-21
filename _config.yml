@@ -14,7 +14,7 @@ description              : "I'm a PHD student in genomics and epigenomics on the
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "PLStenger/plstenger.github.io"
-teaser                   : "/assets/images/nacre.jpg"
+teaser                   : "plstenger.github.io/assets/images/nacre.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -97,10 +97,10 @@ author:
   linkedin         :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
+  stackoverflow    : "7525273/pierre-louis-stenger"
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "@StengerPL"
   vine             :
   weibo            :
   xing             :
