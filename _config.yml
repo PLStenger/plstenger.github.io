@@ -7,14 +7,14 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Titre du site"
+title                    : "Site Title"
 title_separator          : "-"
-name                     : "Pierre-Louis Stenger"
-description              : "Portfolio"
-url                      : "https://plstenger.github.io"
-baseurl                  : "/blog"
-repository               : "PLStenger/plstenger.github.io"
-teaser                   : "/assets/images/nacre.jpg"
+name                     : "Your Name"
+description              : "An amazing website."
+url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : # the subpath of your site, e.g. "/blog"
+repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -55,12 +55,12 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "@StengerPL"
+  username               :
 facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  Open Graph/Twitter default site image
+og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -77,30 +77,30 @@ analytics:
 
 # Site Author
 author:
-  name             : "Pierre-Louis Stenger"
-  avatar           : "/assets/images/pls.jpg"
-  bio              : "I'm a PHD student in marine biology, genomics and epigenomics"
-  location         : "Vairao, Tahiti Iti, French Polynesia"
-  email            : "Pierrelouis.stenger@gmail.com"
+  name             : "Your Name"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "I am an amazing person."
+  location         : "Somewhere"
+  email            :
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           : "pierrelouis.stenger"
+  flickr           :
   facebook         :
   foursquare       :
-  github           : "PLStenger"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "Pierre-louis Stenger"
+  linkedin         :
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          : "@StengerPL"
+  twitter          :
   vine             :
   weibo            :
   xing             :
