@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Pierre-Louis Stenger"
-  avatar           : "/assets/images/pls.jpg"
+  avatar           : "PLStenger/plstenger.github.io/assets/images/pls.jpg"
   bio              : "I'm a PHD student in genomics and epigenomics on the University of French Polynesia, in Tahiti. I work in Ifremer of Vairao on the color of the pearl oyster Pinctada margaritifera."
   location         : "Vairao, Tahiti Iti"
   email            :
