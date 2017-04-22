@@ -1,5 +1,5 @@
 ---
-permalink: /plstenger.github.io/_pages/about/
+permalink: /about/
 title: "About"
 ---
 
