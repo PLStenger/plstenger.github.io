@@ -24,6 +24,10 @@ main:
     url: http://plstenger.github.io/pages/about/
   - title: "About"
     url: plstenger.github.io/_pages/about/
+  - title: "About"
+    url: plstenger.github.io/main-pageplstenger.github.io/_pages/about/
+   - title: "About"
+    url: https://plstenger.github.io/main-pageplstenger.github.io/_pages/about/
   - title: "Blog"
     url: /blog/
   # - title: "Sample Collections"
@@ -32,5 +36,5 @@ main:
   #   url: /sitemap/
   
   
- 
+
 
