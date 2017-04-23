@@ -3,7 +3,25 @@ main:
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"
-    url: /about/
+    url: /about.md/
+  - title: "About"
+    url: http://plstenger.github.io/about.md/
+  - title: "About"
+    url: http://plstenger.github.io/about/ 
+  - title: "About"
+    url: https://plstenger.github.io/about.md/
+  - title: "About"
+    url: http://plstenger.github.io/_pages/about.md/
+  - title: "About"
+    url: http://plstenger.github.io/_pages/about/
+  - title: "About"
+    url: http://plstenger.github.io/pages/about.md/
+  - title: "About"
+    url: http://plstenger.github.io/_pages/about.md/
+  - title: "About"
+    url: http://plstenger.github.io/_pages/about/
+  - title: "About"
+    url: http://plstenger.github.io/pages/about/
   - title: "Blog"
     url: /blog/
   # - title: "Sample Collections"
