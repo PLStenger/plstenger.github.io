@@ -22,9 +22,15 @@ main:
     url: http://plstenger.github.io/_pages/about/
   - title: "About"
     url: http://plstenger.github.io/pages/about/
+  - title: "About"
+    url: plstenger.github.io/_pages/about/
   - title: "Blog"
     url: /blog/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+  
+  
+ 
+
