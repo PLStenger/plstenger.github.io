@@ -7,14 +7,14 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Portfolio"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Pierre-Louis STENGER"
+description              : "I'm a PHD student in genomics and epigenomics on the University of French Polynesia, in Tahiti. I work in Ifremer of Vairao on the color of the pearl oyster Pinctada margaritifera "
+url                      : https://plstenger.github.io.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+repository               : "PLStenger/plstenger.github.io"
+teaser                   : "plstenger.github.io/assets/images/nacre.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 comments:
@@ -54,7 +54,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter 
+  username               : @StengerPL
 facebook:
   username               : 
   app_id                 :
@@ -77,13 +77,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Pierre-Louis Stenger"
+  avatar           : "plstenger.github.io/assets/images/pls.png"
+  bio              : "I'm a PHD student in genomics and epigenomics on the University of French Polynesia, in Tahiti. I work in Ifremer of Vairao on the color of the pearl oyster Pinctada margaritifera."
+  location         : "Vairao, Tahiti Iti"
   employer         : 
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : 
+  googlescholar    : 
+  email            : "Pierrelouis.stenger@gmail.com"
   uri              : 
   bitbucket        :
   codepen          :
@@ -97,13 +97,13 @@ author:
   instagram        : 
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "PLStenger"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : "7525273/pierre-louis-stenger"
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "@StengerPL"
   vine             :
   weibo            :
   xing             :
