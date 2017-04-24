@@ -6,7 +6,7 @@ title                    : "Portfolio"
 title_separator          : "-"
 name                     : "Pierre-Louis STENGER"
 description              : "I'm a PHD student in genomics and epigenomics on the University of French Polynesia, in Tahiti. I work in Ifremer of Vairao on the color of the pearl oyster Pinctada margaritifera "
-url                      : https://plstenger.github.io.github.io 
+url                      : "https://plstenger.github.io"
 baseurl                  : "" 
 repository               : "PLStenger/plstenger.github.io"
 teaser                   : "plstenger.github.io/assets/images/nacre.png"
