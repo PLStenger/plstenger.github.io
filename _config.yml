@@ -1,9 +1,4 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
+# Modified code by Pierre-Louis Stenger from minimal mistake and academicpages (Github pages - Jekyll)
 
 # Site Settings
 locale                   : "en-US"
@@ -12,7 +7,7 @@ title_separator          : "-"
 name                     : "Pierre-Louis STENGER"
 description              : "I'm a PHD student in genomics and epigenomics on the University of French Polynesia, in Tahiti. I work in Ifremer of Vairao on the color of the pearl oyster Pinctada margaritifera "
 url                      : https://plstenger.github.io.github.io 
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" 
 repository               : "PLStenger/plstenger.github.io"
 teaser                   : "plstenger.github.io/assets/images/nacre.png"
 breadcrumbs              : false # true, false (default)
@@ -54,7 +49,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : @StengerPL
+  username               : "@StengerPL"
 facebook:
   username               : 
   app_id                 :
@@ -91,13 +86,13 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "academicpages"
+  github           : "PLStenger"
   google_plus      :
   keybase          :
   instagram        : 
   lastfm           :
   linkedin         :
-  orcid            : "PLStenger"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : "7525273/pierre-louis-stenger"
