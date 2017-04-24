@@ -9,7 +9,7 @@ description              : "I'm a PHD student in genomics and epigenomics on the
 url                      : "https://plstenger.github.io"
 baseurl                  : "" 
 repository               : "PLStenger/plstenger.github.io"
-teaser                   : "plstenger.github.io/assets/images/nacre.png"
+teaser                   : "nacre.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 comments:
@@ -73,7 +73,7 @@ analytics:
 # Site Author
 author:
   name             : "Pierre-Louis Stenger"
-  avatar           : "plstenger.github.io/assets/images/pls.png"
+  avatar           : "pls.png"
   bio              : "I'm a PHD student in genomics and epigenomics on the University of French Polynesia, in Tahiti. I work in Ifremer of Vairao on the color of the pearl oyster Pinctada margaritifera."
   location         : "Vairao, Tahiti Iti"
   employer         : 
