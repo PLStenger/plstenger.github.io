@@ -12,6 +12,9 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
     
+  - title: "Informatics tricks"
+    url: /informatics-tricks/
+    
   - title: "CV"
     url: /cv/
     
