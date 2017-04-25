@@ -20,25 +20,25 @@ Education
 
 Work experience
 ======
-July - August 2016 - Studies iengineer in genetics 
-DNA extraction of *Limecola balthica* (USA and Canada populations) and creation of application with FileMakerPro
-LIENSs laboratory – La Rochelle
+July - August 2016 - Studies engineer in genetics      
+DNA extraction of *Limecola balthica* (USA and Canada populations) and creation of application with FileMakerPro       
+LIENSs laboratory – La Rochelle     
 
-January 2016 - June 2016 Master 2 internship LIENSs laboratory – La Rochelle & GIS3M - Marseille
-Génétique des populatons des Grands Dauphins (*Tursiops truncatus*) de Méditerranée.
-Supervisors: MCF Benoit SIMON-BOUHET, Dr Hélène LABACH
+January 2016 - June 2016 Master 2 internship LIENSs laboratory – La Rochelle & GIS3M - Marseille     
+Génétique des populatons des Grands Dauphins (*Tursiops truncatus*) de Méditerranée.     
+Supervisors: MCF Benoit SIMON-BOUHET, Dr Hélène LABACH     
 
-June - Jully 2015 Non-obligatory Master 1 internship CEBC CNRS - Chizé (79 - Deux-Sèvres, France)
-Photo-détecton et analyses spatotemporelles de dauphins de Commerson des îles Kerguelen.
-Supervisors: C.R. Christophe GUINET, Dr Paul TIXIER
+June - Jully 2015 Non-obligatory Master 1 internship CEBC CNRS - Chizé (79 - Deux-Sèvres, France)     
+Photo-détecton et analyses spatotemporelles de dauphins de Commerson des îles Kerguelen.     
+Supervisors: C.R. Christophe GUINET, Dr Paul TIXIER     
 
-April - June 2015 Master 1 internship LIENSs – La Rochelle
-Impact de la polluton chimique sur la diversité génétque de mollusques marins.
-Supervisor: Dr Amélia VIRICEL-PANTE
+April - June 2015 Master 1 internship LIENSs – La Rochelle     
+Impact de la polluton chimique sur la diversité génétque de mollusques marins.     
+Supervisor: Dr Amélia VIRICEL-PANTE     
 
-April - June 2014 Stage de Licence IRD - Nouméa
-Impact du broutage sur les algues du genre Lobophora dans les lagons calédoniens.
-Supervisors: Pr Claude PAYRI, PhD Christophe VIEIRA
+April - June 2014 Stage de Licence IRD - Nouméa     
+Impact du broutage sur les algues du genre Lobophora dans les lagons calédoniens.     
+Supervisors: Pr Claude PAYRI, PhD Christophe VIEIRA     
 
   
 Skills
