@@ -1,5 +1,5 @@
 ---
-title: "install Monaco font like Texmate on gedit (Linux)"
+title: "How to create sub labels like Gene Ontology graph with Ggplot"
 collection: informatics
 type: ""
 permalink: /informatics/2017-04-25-ggplot-sub-labels
@@ -7,7 +7,7 @@ venue: ""
 date: 2017-04-24
 ---
 
-How to create sub labels like Gene Ontology graph with Ggplot
+Reconstructable example for create sub labels like Gene Ontology graph with Ggplot
 
 ``` library(ggplot2)
 library(grid)
