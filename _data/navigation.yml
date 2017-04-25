@@ -13,10 +13,7 @@ main:
     url: /year-archive/
     
   - title: "Informatics tricks"
-    url: /informatics-tricks/
-    
-  - title: "Teaching"
-    url: /teaching/ 
+    url: /informatics/ 
     
   - title: "CV"
     url: /cv/
