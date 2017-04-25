@@ -31,7 +31,7 @@ Is there a sampling map to show you the location of some sampling site:
 <br/><img src='/images/carte.png'>
 
 ​
-Ialso had the opportunity to work on various biological model, such as dolphins (Bottlenose dolphin *Tursiops truncatus* (Montagu, 1821) during master 2 internship and Commerson dolphin *Cephalorhynchus commersonii* (Lacépède, 1804) during non-obligatory master internship),
+I also had the opportunity to work on various biological model, such as dolphins (Bottlenose dolphin *Tursiops truncatus* (Montagu, 1821) during master 2 internship and Commerson dolphin *Cephalorhynchus commersonii* (Lacépède, 1804) during non-obligatory master internship),
 alage (*Lobophora variegata* (Lamouroux, 1977) - during my license degree internship) and many bivalves (Mussels *mytilus edulis* (Linnaeus, 1758), Pacific Oysters *Crassostrea gigas* (Thunberg, 1793), scallop *Mimachlamys varia* (Linnaeus, 1758) during my master 1 degree internship (these 3 sp.), Macoma *Limecola balthica* (Linnaeus, 1758) during my engineer studies and the pearl oyster *Pinctada margaritifera* during this thesis)
 
 
