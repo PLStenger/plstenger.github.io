@@ -11,8 +11,8 @@ which compared the susceptibility to herbivory of eight different species of Lob
 These results suggest that Lobophora strategies in forms of escapes – associational or spatial – have been privileged by this brown tropical alga over defenses – chemical or morphological – against herbivores. 
 
 Why fight if you can run? Strategies of the brown algal genus Lobophora (Dictyotales, Phaeophyceae) against herbivores. Available from: https://www.researchgate.net/publication/316442155_Why_fight_if_you_can_run_Strategies_of_the_brown_algal_genus_Lobophora_Dictyotales_Phaeophyceae_against_herbivores [accessed Apr 24, 2017].'
-date: 2017-04-24
-venue: 'Comparative Biochemistry and Physiology'
+date: 2015-04-24
+venue: 'Vieira thesis 2015'
 paperurl: 'https://www.researchgate.net/publication/316442155_Why_fight_if_you_can_run_Strategies_of_the_brown_algal_genus_Lobophora_Dictyotales_Phaeophyceae_against_herbivores'
 citation: 'Vieira, C., Stenger, PL., Moleana, T., De Clerck, O., & Payri, C. (2015) - working paper - from Vieira Thesis 2015'
 ---
