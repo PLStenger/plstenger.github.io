@@ -1,7 +1,7 @@
 ---
 title: 'Lancement du questionnaire'
 date: 2017-04-24
-permalink: /posts/2017/04/questionnaire/
+permalink: /posts/2012/08/questionnaire/
 tags:
   - Quizz
   - Couleur
