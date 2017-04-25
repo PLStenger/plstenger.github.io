@@ -1,5 +1,5 @@
 ---
-title: "2015 - Why fght if you can run Strategies of the brown algal genus Lobophora (Dictyotales, Phaeophyceae) against herbivores. "
+title: "2015 - Why fight if you can run Strategies of the brown algal genus Lobophora (Dictyotales, Phaeophyceae) against herbivores. "
 collection: publications
 permalink: /publication/Vieira2015
 excerpt: 'The brown alga Lobophora represents a major benthic component in tropical coral reefs, capable of dominating large reef areas following coral motality and herbivory declines. 
