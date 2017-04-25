@@ -15,6 +15,9 @@ main:
   - title: "Informatics tricks"
     url: /informatics-tricks/
     
+  - title: "Teaching"
+    url: /teaching/ 
+    
   - title: "CV"
     url: /cv/
     
