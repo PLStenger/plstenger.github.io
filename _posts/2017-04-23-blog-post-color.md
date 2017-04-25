@@ -8,9 +8,9 @@ tags:
   - huître perlière
 ---
 
-Brake et al., (2004) considèrent la pigmentation des huîtres Crassostrea gigas comme un trait continu. 
+Brake *et al.,* (2004) considèrent la pigmentation des huîtres *Crassostrea gigas* comme un trait continu. 
 La segmentation du caractère pigmentaire en valeurs équivalentes serait pourtant pertinent pour les études portant sur des comparaisons chromatiques. 
-Néanmoins, l'attribution et la qualification des couleurs restent subjectif, voir unique pour un individu donné ou même pour une culture par rapport à une autre (Kuriki et al. 2017). 
+Néanmoins, l'attribution et la qualification des couleurs restent subjectif, voir unique pour un individu donné ou même pour une culture par rapport à une autre (Kuriki *et al.,* 2017). 
 Comparer des teintes, et les variations de ces teintes sur une simple intuition est impertinent. De plus, il existe un besoin de confirmer ou non les phénotypes. 
 C'est pourquoi un phénotypage des coquilles par analyses photographiques sera réalisé. 
 Les deux valves de chaque huître seront photographiées de façon standard grâce au Sysnext Packshot Creator 3D® présent au Centre Ifremer du Pacifique. 
@@ -33,5 +33,11 @@ Plus une couleur sera sombre, plus elle tendra vers le noir, et donc vers 0.
 Grâce à ce système, les différentes teintes induites par la génétique pourront être comparées grâce au système RGB, et les variations chromatiques induites par l'épigénétique (e.g. brillance (V) et/ou pureté (S)) seront comparées par le système HSV.
 
 <br/><img src='/images/syst.png'>
+
+Bibliographie:      
+ - Brake, John, Ford Evans, and Chris Langdon. 2004. “Evidence for Genetic Control of Pigmentation of Shell and Mantle Edge in Selected Families of Pacific Oysters, Crassostrea Gigas.” Aquaculture 229 (1–4): 89–98. doi:10.1016/S0044-8486(03)00325-9.           
+ - Kuriki, Ichiro, Ryan Lange, Angela M Brown, and Delwin T Lindsey. 2017. “The Modern Japanese Color Lexicon” 17: 1–18. doi:10.1167/17.3.1.doi.          
+
+
 
 ------
