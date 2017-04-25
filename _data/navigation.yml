@@ -4,7 +4,10 @@ main:
     url: /publications/
 
   - title: "Talks"
-    url: /talks/      
+    url: /talks/    
+
+  - title: "CV"
+    url: /cv/    
         
   - title: "Blog Posts"
     url: /year-archive/
@@ -12,6 +15,8 @@ main:
   - title: "Informatics tricks"
     url: /informatics/ 
     
-  - title: "CV"
-    url: /cv/
+  - title: "Video tutorials"
+    url: /video/
+    
+
     
