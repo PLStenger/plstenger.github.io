@@ -228,7 +228,7 @@ defaults:
       path: ""
       type: informatics
     values:
-      layout: informatics
+      layout: single
       author_profile: true
       share: true      
       
