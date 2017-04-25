@@ -10,17 +10,20 @@ redirect_from:
 
 I'm a PHD student in genomics and epigenomics on the University of French Polynesia, in Tahiti.
 ​
-I work in Ifremer of Vaira'o on the color of the blackliped oyster Pinctada margaritifera that is the species that make pearl.
-​
-I grow up in New-Caledonia, and my passion about marine life began while I dived in the laggon. 
-I'm really interested about marine population genetics,
-marine taxonomy (teleosteans, algae, phanerogams, invertebrates...), ecophysiology and marine ecology.
-As soon as I have time, I go to the sea to do apnea, subaquatic photography, or found animals/algae for my saltwater aquarium.
-During my bachelor's degress internship, in Institut de Recherche pour le Développement (IRD), in Nouméa (New-Calédonia), I studied the Lobophora group (algae) and their relationship with corals and grazers.
-I made experiments in independence (Laboratory and in situ) and with team. (PhD Christophe VIEIRA, internship Julie GAUBERT, HDR Claude PAYRI)
- 
-During my master's degress internship, in LIENSs (Littoral Environnement et Sociétés, UMR 7266 CNRS) laboratory in La Rochelle (France), I had testing correlations between genetic diversity and chemical pollution exposure in a bioaccumulating marine bivalve with Dr Amélia VIRICEL. Well, I used genetics kits for DNA extraction and I made PCR. I also do sequence cleaning with many softwares (Sequencher 4.7, PopArt, TranslatorX...) and made statisitcs with Arlequin and R.
+I work in Ifremer of Vaira'o on the color and the color variations of the pearl oyster *Pinctada margaritifera*.
 
-I studied the population structure of Commerson dolphins of the Kerguelen islands with photo-identification on CNRS-CEBC (Centre d'etude biologiques de Chizé) with Dr Paul TIXIER.
- 
-During ma internship's master degree I worked with Dr Benoit SIMON-BOUHET (LIENSs, La Rochelle) and Hélène LABACH (GIS3M, Sausset-lès-pins) on the genetic population of botlenose dolphins (Tursiops truncatus) in the Mediterranean area. Well, I've used PCR, electrophoresis, plate sequencer (4300 DNA analyser), NanoDrop...
+The pearl oyster, *Pinctada margaritifera* (Linnaeus, 1758), represents the second
+economic resource of French Polynesia. It is one of the only bivalves expressing a large
+varied range of inner shell color, and by correlation, of pearl color. This phenotypic
+variability is partly under genetic control, but also under environmental influence. In this
+context, this thesis will allow to identify: 1) the genes expressed during the formation of shells
+of contrasted colors; 2) the genetic variants associed with the expression of these colors; 3)
+the mechanisms controlling the expression of chromatic plasticity in response to the
+environment. In addition to the importance of these results for the pearl industry, this thesis
+will favor the emergence of a new biological model for the multidisciplinary study of
+pigmentation.
+​
+I had the opportunity to work on various biological model, such as dolphins (Bottlenose dolphin *Tursiops truncatus* (Montagu, 1821) during master 2 internship and Commerson dolphin *Cephalorhynchus commersonii* (Lacépède, 1804) during non-obligatory master internship),
+alage (*Lobophora variegata* (Lamouroux, 1977) - during my license degree internship) and many bivalves (Mussels *mytilus edulis* (Linnaeus, 1758), Pacific Oysters *Crassostrea gigas* (Thunberg, 1793), scallop *Mimachlamys varia* (Linnaeus, 1758) during my master 1 degree internship (these 3 sp.), Macoma *Limecola balthica* (Linnaeus, 1758) during my engineer studies and the pearl oyster *Pinctada margaritifera* during this thesis)
+
+
