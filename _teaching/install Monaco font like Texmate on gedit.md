@@ -2,7 +2,7 @@
 title: "install Monaco font like Texmate on gedit (Linux)"
 collection: teaching
 type: ""
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/install-Monaco
 venue: ""
 date: 2017-04-24
 location: ""
