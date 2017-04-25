@@ -23,13 +23,7 @@ environment. In addition to the importance of these results for the pearl indust
 will favor the emergence of a new biological model for the multidisciplinary study of
 pigmentation.
 
-[![nacres][1]]
-
-[1]: nacres.png
-
-[![perles][2]]
-
-[2]: perles.png
+<br/><img src='/images/nacres.png'>
 
 ​
 I had the opportunity to work on various biological model, such as dolphins (Bottlenose dolphin *Tursiops truncatus* (Montagu, 1821) during master 2 internship and Commerson dolphin *Cephalorhynchus commersonii* (Lacépède, 1804) during non-obligatory master internship),
