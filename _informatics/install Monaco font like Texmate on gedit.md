@@ -5,7 +5,6 @@ type: ""
 permalink: /informatics/install-Monaco
 venue: ""
 date: 2017-04-24
-location: ""
 ---
 
 Find on rogerleite GitHub; Very nice work !
