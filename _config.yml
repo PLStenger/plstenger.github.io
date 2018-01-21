@@ -172,6 +172,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  gallery:
+    output: true
+    permalink: /:collection/:path/  
   informatics:
     output: true
     permalink: /:collection/:path/
@@ -222,7 +225,15 @@ defaults:
     values:
       layout: talk
       author_profile: true
-      share: true    
+      share: true  
+ # _gallery
+  - scope:
+      path: ""
+      type: gallery
+    values:
+      layout: single
+      author_profile: true
+      share: true        
  # _informatics
   - scope:
       path: ""
