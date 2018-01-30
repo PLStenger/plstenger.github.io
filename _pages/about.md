@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PHD student in marnie biology, genomics and epigenomics on the University of French Polynesia, in Tahiti.
+I'm a PHD student in marine biology, genomics and epigenomics on the University of French Polynesia, in Tahiti.
 ​
 I work in Ifremer of Vaira'o on the color and the color variations of the pearl oyster *Pinctada margaritifera*.
 
