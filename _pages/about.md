@@ -8,22 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PHD student in marine biology, genomics and epigenomics on the University of French Polynesia, in Tahiti.
+I'm a P.hD in marine biology, genomics and epigenomics. 
 ​
-I work in Ifremer of Vaira'o on the color and the color variations of the pearl oyster *Pinctada margaritifera*.
+I realized my thesis with Ifremer (Vaira'o, Tahiti, French Polynesia), the University of French Polynesia (Punaauia, Tahiti, French Polynesia), the CRIOBE (Paopao, Moorea, French Polynesia) and the UMR IHPE 5244 in Montpellier, France.
+I studied the molecular processes that lead to the inner chromatic plasticity and diversity of the Blacklipped Pearl Oyster *Pinctada margaritifera*.
 
 <br/><img src='/images/perles.png'>
 
-The pearl oyster, *Pinctada margaritifera* (Linnaeus, 1758), represents the second
-economic resource of French Polynesia. It is one of the only bivalves expressing a large
-varied range of inner shell color, and by correlation, of pearl color. This phenotypic
-variability is partly under genetic control, but also under environmental influence. In this
-context, this thesis will allow to identify: 1) the genes expressed during the formation of shells
-of contrasted colors; 2) the genetic variants associed with the expression of these colors; 3)
-the mechanisms controlling the expression of chromatic plasticity in response to the
-environment. In addition to the importance of these results for the pearl industry, this thesis
-will favor the emergence of a new biological model for the multidisciplinary study of
-pigmentation.
+Briefly, the pearl oyster, *Pinctada margaritifera* var. *cumingii* (Linnaeus, 1758), is the second economic resource of French Polynesia. It is one of the only bivalves expressing such a varied range of internal shell coloring, and by correlation, pearl color. This phenotypic variability which were weakly characterized in the literature is partly under genetic control, but is also under environmental influence. In this context, my thesis were interested by identifying in three phenotypes of interest for pearl farming (red, yellow and green): i) a method to characterize these chromatic variations, ii) the key genes expressed during the formation of shells leading to contrasting color phenotypes; iii) the genetic variants responsible for the expression of these colors; iv) epigenetic mechanisms controlling the expression of chromatic plasticity in response to the environment. The combination of these different fields made it possible to understand processes explaining the plasticity and the diversity of the pigmentary coloration of these phenotypes. These results allowed to identify a battery of genomic and epigenomic markers that will grant the future genomic selection of highly colored individuals. These informations coupled with the future results of genomic studies on other pearl quality criteria (luster, size, etc.) will make it possible to obtain reference populations selected by genomic markers for the production of high-quality graft donor pearl oyster lines. In addition to the importance of these results for pearl farming, this thesis improves our knowledge of pigmentation processes in bivalve and could favor the emergence of a new biological model for the multidisciplinary study of pigmentation.
 
 <br/><img src='/images/nacres.png'>
 
