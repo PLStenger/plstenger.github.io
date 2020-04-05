@@ -264,6 +264,7 @@ gems:
   - jekyll-feed
   - jekyll-redirect-from
   - jekyll-seo-tag
+  - jekyll-include-cache
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
@@ -271,6 +272,8 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+plugins:
+  - jekyll-include-cache
 
 
 # Archives
