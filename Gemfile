@@ -24,3 +24,6 @@ group :jekyll_plugins do
   gem "jekyll-feed"
   gem 'jekyll-sitemap', :github => 'jekyll/jekyll-sitemap', :branch => 'master'
 end
+
+# https://github.com/benbalter/jekyll-include-cache
+gem 'jekyll-include-cache'
