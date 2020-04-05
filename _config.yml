@@ -272,8 +272,8 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-plugins:
-  - jekyll-include-cache
+#plugins:
+#  - jekyll-include-cache
 
 
 # Archives
