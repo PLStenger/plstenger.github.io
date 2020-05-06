@@ -2,7 +2,7 @@
 title: "Package R ImaginR Delimit and Characterize Color Phenotype of the Pearl Oyster"
 collection: publications
 permalink: /publication/Stenger2017
-excerpt: 'The pearl oyster, *Pinctada margaritifera* (Linnaeus, 1758), represents the second economic resource of French Polynesia. It is one of the only bivalves expressing a large varied range of inner shell color, and by correlation, of pearl color. This phenotypic variability is partly under genetic control, but also under environmental influence. and to characterize their color variations (by the HSV color system) with pictures.'
+excerpt: 'The pearl oyster, *Pinctada margaritifera* (Linnaeus, 1758), represents the second economic resource of French Polynesia. It is one of the only bivalves expressing a large varied range of inner shell color, and by correlation, of pearl color. This phenotypic variability is partly under genetic control, but also under environmental influence. With this R package, it's now possible to delimit and characterize their color variations (by the HSV color system) with pictures.'
 date: 2017-05-29
 venue: 'Scientific Reports'
 paperurl: 'https://www.nature.com/articles/s41598-019-43777-4'
