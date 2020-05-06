@@ -13,4 +13,6 @@ The pearl oyster, *Pinctada margaritifera* (Linnaeus, 1758), is one of the only 
 
 [Download paper here](https://cran.r-project.org/web/packages/ImaginR/ImaginR.pdf)
 
+<br/><img src='/images/2017-ImaginR.png'>
+
 Recommended citation: Stenger, P. L. (2017). &quot;Package R ImaginR: Delimit and Characterize Color Phenotype of the Pearl Oyster&quot; <i>CRAN</i>. 1(1).
