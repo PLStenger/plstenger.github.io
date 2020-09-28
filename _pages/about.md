@@ -19,7 +19,7 @@ Actualy I'm in a PostDoctoral position on the [Lemer Invertebrate Genomics Lab](
 
 
 ## My thesis story:
-___
+
 
 I realized my thesis with the **Centre Ifremer du Pacifique - UMR EIO 241** (in Vaira'o, Tahiti, French Polynesia), the **University of French Polynesia - UMR EIO 241** (in Punaauia, Tahiti, French Polynesia), the **CRIOBE - UMR EIO 241** (in Paopao, Moorea, French Polynesia) and whith the **Ifremer - UMR IHPE 5244** in Montpellier, France.
 
@@ -42,7 +42,7 @@ Is there a sampling map to show you the location of some sampling site:
 
 
 ## Older studies:
-___
+
 
 I also had the opportunity to work on various biological model, such as dolphins (Bottlenose dolphin *Tursiops truncatus* (Montagu, 1821) during master 2 internship and Commerson dolphin *Cephalorhynchus commersonii* (Lacépède, 1804) during non-obligatory master internship),
 alage (*Lobophora variegata* (Lamouroux, 1977) - during my license degree internship) and many bivalves (Mussels *mytilus edulis* (Linnaeus, 1758), Pacific Oysters *Crassostrea gigas* (Thunberg, 1793), scallop *Mimachlamys varia* (Linnaeus, 1758) during my master 1 degree internship (these 3 sp.), Macoma *Limecola balthica* (Linnaeus, 1758) during my engineer studies and the pearl oyster *Pinctada margaritifera* during this thesis)
@@ -51,7 +51,7 @@ alage (*Lobophora variegata* (Lamouroux, 1977) - during my license degree intern
 
 
 ## Scientific volunteering:
-___
+
 
 Since 2019, I'm a [scientific team member](https://www.mokarran.org/fr/organisation/#team) of the **Mokarran Protection Society** (Great hammer head shark *Sphyrna Mokarran*) for statistical analysis, reports writer, as a diver, etc.
 
