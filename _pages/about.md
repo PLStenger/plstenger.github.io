@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a P.hD in marine biology, genomics and epigenomics. 
 
-Actualy I'm in a PostDoctoral position on the [Lemer Invertebrate Genomics Lab](https://www.uog.edu/ml/labs/lemer.php), on the [University of Guam](https://www.uog.edu). I'm working on coral species (*Acropora digitifera* & *A. surculosa*) on the coral bleaching effect after thermal stress under acclimation process. I'm using RNA-Sequencing for transcriptomic part and WGBS-Sequencing for epignomic part of these studies.
+Actualy I'm in a PostDoctoral position on the [Lemer Invertebrate Genomics Lab](https://www.uog.edu/ml/labs/lemer.php), on the [University of Guam](https://www.uog.edu). I'm working on coral species (*Acropora digitifera* & *A. surculosa*) on the coral bleaching effect after thermal stress under acclimation process. I'm using RNA-Sequencing for transcriptomic part and WGBS-Sequencing for epigenomic part (e.g. DNA epigenomics) of these studies.
 
 <br/><img src='/images/Acropora.png'>
 
