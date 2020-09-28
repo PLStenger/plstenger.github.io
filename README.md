@@ -3,6 +3,8 @@ Academic portfolio website coding with inspiration from [minimal mistakes from M
 # For change left portfolio, go in
 _config.yml
 
+# For change CV, change it from
+plstenger.github.io --> files --> CV_Stenger_Pierre_Louis.pdf
 
 
 # Basic config options: _config.yml
