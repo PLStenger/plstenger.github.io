@@ -12,4 +12,7 @@ redirect_from:
 To download my CV from github, please [click here](https://github.com/PLStenger/plstenger.github.io/blob/master/files/CV_Stenger_Pierre_Louis.pdf)
 
 
-<br/><img src='/images/CV_Stenger_Pierre_Louis_01.png'>
+<br/><img src='/images/CV_Stenger_Pierre_Louis_01.pdf'>
+<br/><img src='/images/CV_Stenger_Pierre_Louis_02.pdf'>
+<br/><img src='/images/CV_Stenger_Pierre_Louis_03.pdf'>
+<br/><img src='/images/CV_Stenger_Pierre_Louis_04.pdf'>
