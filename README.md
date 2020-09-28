@@ -12,6 +12,10 @@ plstenger.github.io --> _pages --> about.md
 
 ## For change CV, change it from
 plstenger.github.io --> files --> CV_Stenger_Pierre_Louis.pdf
+then,
+plstenger.github.io --> _pages --> cv.md 
+and
+plstenger.github.io --> images --> CV_Stenger_Pierre_Louis_01.png
 
 
 ## Basic config options: _config.yml
