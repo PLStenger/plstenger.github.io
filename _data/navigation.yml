@@ -6,8 +6,11 @@ main:
   - title: "Talks"
     url: /talks/    
 
+#  - title: "CV"
+#    url: /cv/    
+    
   - title: "CV"
-    url: /cv/    
+    url: /https://github.com/PLStenger/plstenger.github.io/blob/master/_data/CV_Stenger_Pierre_Louis.pdf/
         
   - title: "Blog Posts"
     url: /year-archive/
