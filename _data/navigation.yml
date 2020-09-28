@@ -6,11 +6,8 @@ main:
   - title: "Talks"
     url: /talks/    
 
-#  - title: "CV"
-#    url: /cv/    
-    
   - title: "CV"
-    url: /CV_Stenger_Pierre_Louis.pdf/
+    url: /cv/    
         
   - title: "Blog Posts"
     url: /year-archive/
