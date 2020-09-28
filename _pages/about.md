@@ -9,7 +9,11 @@ redirect_from:
 ---
 
 I'm a P.hD in marine biology, genomics and epigenomics. 
-​
+
+Actualy I'm in a PostDoctoral position on the [Lemer Invertebrate Genomics Lab](https://www.uog.edu/ml/labs/lemer.php), on the [University of Guam](https://www.uog.edu). I'm working on coral species (*Acropora digitifera* & *A. surculosa*) on the coral bleaching effect after thermal stress under acclimation process. I'm using RNA-Sequencing for transcriptomic part and WGBS-Sequencing for epignomic part of these studies.
+
+<br/><img src='/images/Acropora.png'>
+
 I realized my thesis with Ifremer (Vaira'o, Tahiti, French Polynesia), the University of French Polynesia (Punaauia, Tahiti, French Polynesia), the CRIOBE (Paopao, Moorea, French Polynesia) and the UMR IHPE 5244 in Montpellier, France.
 I studied the molecular processes that lead to the inner chromatic plasticity and diversity of the Blacklipped Pearl Oyster *Pinctada margaritifera*.
 <br/><img src='/images/oysters_pearls.png'>
