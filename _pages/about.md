@@ -23,6 +23,8 @@ Actualy I'm in a PostDoctoral position on the [Lemer Invertebrate Genomics Lab](
 
 I realized my thesis with the **Centre Ifremer du Pacifique - UMR EIO 241** (in Vaira'o, Tahiti, French Polynesia), the **University of French Polynesia - UMR EIO 241** (in Punaauia, Tahiti, French Polynesia), the **CRIOBE - UMR EIO 241** (in Paopao, Moorea, French Polynesia) and whith the **Ifremer - UMR IHPE 5244** in Montpellier, France.
 
+<br/><img src='/images/thesis_logos.png'>
+
 I studied the molecular processes that lead to the inner chromatic plasticity and diversity of the Blacklipped Pearl Oyster *Pinctada margaritifera*.
 <br/><img src='/images/oysters_pearls.png'>
 Briefly, the pearl oyster, *Pinctada margaritifera* var. *cumingii* (Linnaeus, 1758), is the second economic resource of French Polynesia. It is one of the only bivalves expressing such a varied range of internal shell coloring, and by correlation, pearl color. This phenotypic variability which were weakly characterized in the literature is partly under genetic control, but is also under environmental influence. In this context, my thesis were interested by identifying in three phenotypes of interest for pearl farming (red, yellow and green): 
