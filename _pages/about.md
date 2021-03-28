@@ -14,7 +14,7 @@ P.hD in marine biology, genomics and epigenomics.
 
 Actualy I'm in a PostDoctoral position on the [New Caledonian Agronomic Institute](http://www.iac.nc), within the [IRD's campus](https://en.ird.fr/node/7917) in Nouméa, New-Caledonia. 
 
-<br/><img src='/images/IAC_logo.png'>
+<br/><img src='/images/IAC_01.png'>
 
 I'm working on diverses projects, essentially in meta-barcoding and statistics analysis.
 
