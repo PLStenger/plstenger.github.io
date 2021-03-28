@@ -10,11 +10,18 @@ redirect_from:
 
 P.hD in marine biology, genomics and epigenomics. 
 
+## Actual position; second post-doctoral position:
 
-## Actual position:
+Actualy I'm in a PostDoctoral position on the [New Caledonian Agronomic Institute](http://www.iac.nc), within the [IRD's campus](https://en.ird.fr/node/7917) in Nouméa, New-Caledonia. 
 
-Actualy I'm in a PostDoctoral position on the [Lemer Invertebrate Genomics Lab](https://www.uog.edu/ml/labs/lemer.php), on the [University of Guam](https://www.uog.edu). 
-<br/><img src='/images/Guam_logos.png'>
+<br/><img src='/images/IAC_logo.png'>
+
+I'm working on diverses projects, essentially in meta-barcoding and statistics analysis.
+
+## First post-doctoral position:
+
+I did a PostDoctoral position on the [Lemer Invertebrate Genomics Lab](https://www.uog.edu/ml/labs/lemer.php), on the [University of Guam](https://www.uog.edu). 
+<br/><img src='/images/Guam_logos.png'> during 10 month.
 
 I'm working on coral species (*Acropora digitifera* & *A. surculosa*) on the coral bleaching effect after thermal stress under acclimation process. I'm using RNA-Sequencing for transcriptomic part and WGBS-Sequencing for epigenomic part (e.g. DNA epigenomics) of these studies.
 
