@@ -15,5 +15,6 @@ Curriculum vitæ up date: 09/29/2020
 <br/><img src='/images/CV_Stenger_Pierre_Louis_02.png'>
 <br/><img src='/images/CV_Stenger_Pierre_Louis_03.png'>
 <br/><img src='/images/CV_Stenger_Pierre_Louis_04.png'>
+<br/><img src='/images/CV_Stenger_Pierre_Louis_05.png'>
 
 To download my CV from github, please [click here](https://github.com/PLStenger/plstenger.github.io/blob/master/files/CV_Stenger_Pierre_Louis.pdf)
