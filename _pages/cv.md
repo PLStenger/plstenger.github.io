@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Curriculum vitæ up date: 09/29/2020
+Curriculum vitæ up date: 03/29/2021
 
 <br/><img src='/images/CV_Stenger_Pierre_Louis_01.png'>
 <br/><img src='/images/CV_Stenger_Pierre_Louis_02.png'>
