@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-P.hD in marine biology, genomics and epigenomics. 
+P.hD in marine biology and genomics (Pop. genomics, transcriptomics, epigenomics and Metabarcoding). 
 
 ## Actual position; second post-doctoral position:
 
@@ -16,7 +16,7 @@ Actualy I'm in a PostDoctoral position on the [New Caledonian Agronomic Institut
 
 <br/><img src='/images/IAC_01.png'>
 
-I'm working on diverses projects, essentially in meta-barcoding and statistics analysis.
+Working on tropical island diversity, essentially in metabarcoding and statistics analysis.
 
 ## First post-doctoral position:
 
