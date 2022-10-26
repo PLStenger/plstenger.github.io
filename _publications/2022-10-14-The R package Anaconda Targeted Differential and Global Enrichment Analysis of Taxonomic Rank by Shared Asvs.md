@@ -1,5 +1,5 @@
 ---
-title: "2022 - The R package Anaconda : Targeted differential and Global enrichment analysis of taxonomic rank by shared ASVs Targeted differential and Global enrichment analysis of taxonomic rank by shared ASVs"
+title: "2022 - The R package Anaconda : Targeted differential and Global enrichment analysis of taxonomic rank by shared ASVs"
 collection: publications
 permalink: /publication/Stenger_2022b
 excerpt: 'Targeted differential and global enrichment analysis of taxonomic rank by shared ASVs (Amplicon Sequence Variant), for high-throughput eDNA sequencing of fungi, bacteria, and metazoan.'
