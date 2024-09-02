@@ -8,23 +8,29 @@ redirect_from:
   - /about.html
 ---
 
-P.hD in marine biology and genomics (Pop. genomics, transcriptomics, epigenomics and Metabarcoding). 
+P.hD in biology and genomics (Pop. genomics, transcriptomics, epigenomics and Metabarcoding). 
 
-## Actual position; second post-doctoral position:
+## Actual position; 
 
-Actualy I'm in a PostDoctoral position on the [New Caledonian Agronomic Institute](http://www.iac.nc), within the [IRD's campus](https://en.ird.fr/node/7917) in Nouméa, New-Caledonia. 
+I am an independent biologist and founder of Omycsphere Analytics (SIRET number 91254042400013). I collaborate with various French joint research units (UMRs) based in overseas territories such as New Caledonia, Réunion Island, and Mayotte, as well as with international laboratories in New Zealand, Utah (USA), and Tanzania. My work focuses on eDNA data analysis, ranging from processing raw data to producing comprehensive results and writing scientific articles. Through these collaborations, I contribute to advancing our understanding of biodiversity and environmental monitoring by applying cutting-edge techniques in environmental DNA (eDNA) to study ecosystems and species interactions.
+
+<br/><img src='/images/logo_omicsphere_analytics.png'>
+
+## Second post-doctoral position:
+
+PostDoctoral position on the [New Caledonian Agronomic Institute](http://www.iac.nc), within the [IRD's campus](https://en.ird.fr/node/7917) in Nouméa, New-Caledonia. 
 
 <br/><img src='/images/IAC_01.png'>
 
-Working on tropical island diversity, essentially in metabarcoding and statistics analysis.
+Worked on tropical island diversity, metabarcoding and statistics analysis.
 
 ## First post-doctoral position:
 
-I did a PostDoctoral position on the [Lemer Invertebrate Genomics Lab](https://www.uog.edu/ml/labs/lemer.php), on the [University of Guam](https://www.uog.edu). 
+PostDoctoral position on the [Lemer Invertebrate Genomics Lab](https://www.uog.edu/ml/labs/lemer.php), on the [University of Guam](https://www.uog.edu). 
 <br/><img src='/images/Guam_logos.png'> during 10 month.
 
-I'm working on coral species (*Acropora digitifera* & *A. surculosa*) on the coral bleaching effect after thermal stress under acclimation process. I'm using RNA-Sequencing for transcriptomic part and WGBS-Sequencing for epigenomic part (e.g. DNA epigenomics) of these studies.
-
+Worked on coral species (*Acropora digitifera* and *A. surculosa*) to study the effects of coral bleaching following thermal stress during the acclimation process. Employed RNA-Sequencing for the transcriptomic analysis and WGBS-Sequencing for the epigenomic analysis (e.g., DNA epigenomics) in these studies.
+ 
 <br/><img src='/images/Acropora.png'>
 
 
