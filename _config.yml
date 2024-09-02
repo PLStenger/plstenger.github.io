@@ -5,7 +5,7 @@ locale                   : "en-US"
 title                    : "Portfolio"
 title_separator          : "-"
 name                     : "Pierre-Louis STENGER"
-description              : "PostDoctoral researcher in marine biology, genomics and epigenomics. Also amateur underwater photographer"
+description              : "Independent biologist and founder of Omycsphere Analytics biology, working on genomics, epigenomics and eDNA."
 url                      : "https://plstenger.github.io"
 baseurl                  : "" 
 repository               : "PLStenger/plstenger.github.io"
@@ -48,7 +48,7 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
+X:
   username               : "@StengerPL"
 facebook:
   username               : 
@@ -98,7 +98,7 @@ author:
   stackoverflow    : "7525273/pierre-louis-stenger"
   steam            :
   tumblr           :
-  twitter          : "@StengerPL"
+  x          : "@StengerPL"
   vine             :
   weibo            :
   xing             :
