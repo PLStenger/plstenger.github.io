@@ -14,9 +14,7 @@ P.hD in biology and genomics (Pop. genomics, transcriptomics, epigenomics and Me
 
 I am an independent biologist and founder of Omycsphere Analytics (SIRET number 91254042400013). I collaborate with various French joint research units (UMRs) based in overseas territories such as New Caledonia, Réunion Island, and Mayotte, as well as with international laboratories in New Zealand, Utah (USA), and Tanzania. My work focuses on eDNA data analysis, ranging from processing raw data to producing comprehensive results and writing scientific articles. Through these collaborations, I contribute to advancing our understanding of biodiversity and environmental monitoring by applying cutting-edge techniques in environmental DNA (eDNA) to study ecosystems and species interactions.
 
-<br/><img src='/images/logo_omicsphere_analytics.png'>
-
-html <div style="text-align: center;"> <img src="/images/logo_omicsphere_analytics.png" style="width: 200px; height: auto;"> </div>
+<div style="text-align: center;"> <img src="/images/logo_omicsphere_analytics.png" style="width: 400px; height: auto;"> </div>
 
 ## Second post-doctoral position:
 
