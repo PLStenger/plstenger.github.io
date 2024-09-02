@@ -178,6 +178,9 @@ collections:
   informatics:
     output: true
     permalink: /:collection/:path/
+  omicsphere_analytics:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -241,7 +244,15 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true      
+      share: true 
+  # _omicsphere_analytics
+  - scope:
+      path: ""
+      type: omicsphere_analytics
+    values:
+      layout: single
+      author_profile: true
+      share: true 
       
 # Sass/SCSS
 sass:
