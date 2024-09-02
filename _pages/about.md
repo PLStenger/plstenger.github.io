@@ -12,7 +12,7 @@ P.hD in biology and genomics (Pop. genomics, transcriptomics, epigenomics and Me
 
 ## Actual position: 
 
-<div style="text-align: justify;"> I am an independent biologist and founder of Omicsphere Analytics (SIRET number 91254042400013) [more info here](https://plstenger.github.io/omicsphere_analytics/). I collaborate with various French joint research units (UMRs) based in overseas territories such as New Caledonia, Réunion Island, and Mayotte, as well as with international laboratories in New Zealand, Utah (USA), and Tanzania. My work focuses on eDNA data analysis, ranging from processing raw data to producing comprehensive results and writing scientific articles. Through these collaborations, I contribute to advancing our understanding of biodiversity and environmental monitoring by applying cutting-edge techniques in environmental DNA (eDNA) to study ecosystems and species interactions.</div>
+<div style="text-align: justify;"> I am an independent biologist and founder of Omicsphere Analytics (SIRET number 91254042400013) <a href="https://plstenger.github.io/omicsphere_analytics/">(more info here)</a>. I collaborate with various French joint research units (UMRs) based in overseas territories such as New Caledonia, Réunion Island, and Mayotte, as well as with international laboratories in New Zealand, Utah (USA), and Tanzania. My work focuses on eDNA data analysis, ranging from processing raw data to producing comprehensive results and writing scientific articles. Through these collaborations, I contribute to advancing our understanding of biodiversity and environmental monitoring by applying cutting-edge techniques in environmental DNA (eDNA) to study ecosystems and species interactions.</div>
 
 <br>
 
