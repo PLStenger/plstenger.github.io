@@ -29,7 +29,7 @@ Worked on tropical island diversity, metabarcoding and statistics analysis.
 PostDoctoral position on the [Lemer Invertebrate Genomics Lab](https://www.uog.edu/ml/labs/lemer.php), on the [University of Guam](https://www.uog.edu). 
 <br/><img src='/images/Guam_logos.png'> during 10 month.
 
-Worked on coral species (*Acropora digitifera* and *A. surculosa*) to study the effects of coral bleaching following thermal stress during the acclimation process. Employed RNA-Sequencing for the transcriptomic analysis and WGBS-Sequencing for the epigenomic analysis (e.g., DNA epigenomics) in these studies.
+<div style="text-align: justify;">Worked on coral species (*Acropora digitifera* and *A. surculosa*) to study the effects of coral bleaching following thermal stress during the acclimation process. Employed RNA-Sequencing for the transcriptomic analysis and WGBS-Sequencing for the epigenomic analysis (e.g., DNA epigenomics) in these studies.</div>
  
 <br/><img src='/images/Acropora.png'>
 
