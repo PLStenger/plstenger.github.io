@@ -13,4 +13,4 @@ citation: 'Stenger PL., Mille C., J. Theuerkauf, Jourdan H., M. Marinov (2024). 
 
 Recommended citation: 'Stenger PL., Mille C., J. Theuerkauf, Jourdan H., M. Marinov (2024). Description of the female and variation in males of the critically endangered <i>Caledargiolestes janiceae</i> Lieftinck, 1975 from South New Caledonia (Odonata: Zygoptera: Argiolestidae). Zootaxa, 5468(2), 379-392, https://doi.org/10.11646/zootaxa.5468.2.8'
 
-<div style="text-align: center;"> <img src="/images/Stenger_2024a.png" style="width: 400px; height: auto;"> </div>
+<div style="text-align: center;"> <img src="/images/Stenger_2024a.png" style="width: 800px; height: auto;"> </div>
