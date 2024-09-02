@@ -16,6 +16,8 @@ I am an independent biologist and founder of Omycsphere Analytics (SIRET number 
 
 <br/><img src='/images/logo_omicsphere_analytics.png'>
 
+html <div style="text-align: center;"> <img src="/images/logo_omicsphere_analytics.png" style="width: 200px; height: auto;"> </div>
+
 ## Second post-doctoral position:
 
 PostDoctoral position on the [New Caledonian Agronomic Institute](http://www.iac.nc), within the [IRD's campus](https://en.ird.fr/node/7917) in Nouméa, New-Caledonia. 
