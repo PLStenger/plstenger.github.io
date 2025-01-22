@@ -7,16 +7,13 @@ redirect_from:
   - /resume
 ---
 
+
 {% include base_path %}
 
-Curriculum vitæ up date: 09(sept)/02/2024
+Curriculum vitæ up date: 01(january)/22/2025
 
-<br/><img src='/images/CV_Stenger_Pierre_Louis_01.png'>
-<br/><img src='/images/CV_Stenger_Pierre_Louis_02.png'>
-<br/><img src='/images/CV_Stenger_Pierre_Louis_03.png'>
-<br/><img src='/images/CV_Stenger_Pierre_Louis_04.png'>
-<br/><img src='/images/CV_Stenger_Pierre_Louis_05.png'>
-<br/><img src='/images/CV_Stenger_Pierre_Louis_06.png'>
-<br/><img src='/images/CV_Stenger_Pierre_Louis_07.png'>
+<!-- Intégration du fichier PDF -->
+<iframe src="/files/CV_Stenger_Pierre_Louis.pdf" style="width:100%; height:800px;" frameborder="0"></iframe>
 
-To download my CV from github, please [click here](https://github.com/PLStenger/plstenger.github.io/blob/master/files/CV_Stenger_Pierre_Louis.pdf)
+<!-- Lien de téléchargement -->
+To download my CV from GitHub, please [click here](https://github.com/PLStenger/plstenger.github.io/blob/master/files/CV_Stenger_Pierre_Louis.pdf)
