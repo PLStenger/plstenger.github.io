@@ -17,3 +17,6 @@ The genus *Lobophora* is a notable benthic algal component of tropical coral ree
 <br/><img src='/images/2019_lobophora.png'>
 
 Recommended citation: Vieira, C., Stenger, P. L., Moleana, T., De Clerck, O., & Payri, C. (2019). &quot;Limited interspecific variation in grazing susceptibility of the brown alga <i>Lobophora</i> to herbivory.&quot; <i> Journal of Experimental Marine Biology and Ecology, 518, 151175.</i>. 1(1).
+
+<div style="text-align: center;"> <img src="/images/Stenger2019Lobophora.png" style="width: 1600px; height: auto;"> </div>
+
