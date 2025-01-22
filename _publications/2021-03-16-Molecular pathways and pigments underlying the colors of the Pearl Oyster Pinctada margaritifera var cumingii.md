@@ -12,3 +12,8 @@ The shell color of the Mollusca has attracted naturalists and collectors for hun
 [Download paper here](https://www.mdpi.com/2073-4425/12/3/421)
 
 Recommended citation: 'Stenger PL., Ky CL., Reisser C., Duboisset J., Dicko H., Durand P., Quintric L., Planes S., Vidal-Dupiol J. (2021) - Molecular pathways and pigments underlying the colors of the Pearl Oyster Pinctada margaritifera var. cumingii (Linnaeus 1758).-  <i>Genes, 12, 421. https:// doi.org/10.3390/genes12030421Front.</i>'
+
+
+<div style="text-align: center;"> <img src="/images/Stenger_2021a.png" style="width: 1600px; height: auto;"> </div>
+
+
