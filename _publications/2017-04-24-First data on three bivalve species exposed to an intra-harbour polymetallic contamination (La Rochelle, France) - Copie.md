@@ -31,3 +31,7 @@ varia, was the most sensitive to metal exposure.
 [Download paper here](http://ac.els-cdn.com/S1532045617300467/1-s2.0-S1532045617300467-main.pdf?_tid=95d450da-2944-11e7-8f90-00000aacb362&acdnat=1493076200_7fb6e69e9b1793f17049dc23dae9817d)
 
 Recommended citation: Breitwieser, M., Viricel, A., Churlaud, C., Guillot, B., Martin, E., Stenger, P. L., ... & Thomas-Guyon, H. (2017). &quot;First data on three bivalve species exposed to an intra-harbour polymetallic contamination (La Rochelle, France).&quot; <i> Comparative Biochemistry and Physiology Part C: Toxicology & Pharmacology.</i>. 1(1).
+
+<div style="text-align: center;"> <img src="/images/Breitwieser2017.png" style="width: 1600px; height: auto;"> </div>
+
+
