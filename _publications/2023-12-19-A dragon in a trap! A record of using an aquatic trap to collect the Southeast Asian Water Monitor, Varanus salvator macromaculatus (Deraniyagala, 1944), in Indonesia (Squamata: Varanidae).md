@@ -13,4 +13,5 @@ citation: 'Zdunek, P., & Stenger, P. L. (2023). A dragon in a trap! A record of 
 
 Recommended citation: 'Zdunek, P., & Stenger, P. L. (2023). A dragon in a trap! A record of using an aquatic trap to collect the Southeast Asian Water Monitor, <i>Varanus salvator macromaculatus</i> (Deraniyagala, 1944), in Indonesia (Squamata: Varanidae). Herpetology Notes, 16, 937-940, https://hal.science/hal-04354803.'
 
+<div style="text-align: center;"> <img src="/images/Stenger_2023d.png" style="width: 1600px; height: auto;"> </div>
 
