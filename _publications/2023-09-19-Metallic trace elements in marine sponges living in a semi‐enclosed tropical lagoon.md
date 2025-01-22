@@ -13,4 +13,6 @@ The ability of marine filter feeders to accumulate metals could help monitor the
 
 Recommended citation: 'Maggioni, F., Stenger, P. L., Letourneur, Y., Jourand, P., & Majorel, C. (2024). Metallic trace elements in marine sponges living in a semi-enclosed tropical lagoon. BioMetals, 37(1), 157-169, https://doi.org/10.1007/s10534-023- 00536-3'
 
+<div style="text-align: center;"> <img src="/images/Stenger_2023e.png" style="width: 1600px; height: auto;"> </div>
+
 
