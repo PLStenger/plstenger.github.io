@@ -15,3 +15,5 @@ As a major threat to the oyster industry, Pacific Oyster Mortality Syndrome (POM
 <br/><img src='/images/2020_DeLorgeril.png'>
 
 Recommended citation: De Lorgeril, J., Petton, B., Lucasson, A., Perez, V., Stenger, P. L., Dégremont, L., ... & Leroy, M. (2020). &quot;Differential basal expression of immune genes confers <i>Crassostrea gigas</i> resistance to Pacific oyster mortality syndrome.&quot; <i>BMC genomics, 21(1), 1-14.</i>
+
+<div style="text-align: center;"> <img src="/images/DeLorgeril2020.png" style="width: 1600px; height: auto;"> </div>
