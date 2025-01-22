@@ -12,3 +12,8 @@ For hundreds of years, the color diversity of Mollusca shells has been a topic o
 [Download paper here](https://onlinelibrary.wiley.com/doi/abs/10.1111/eva.13464)
 
 Recommended citation: 'Stenger PL., Ky CL., Vidal Dupiol J., Planes S., Reisser C. (2022) - Identifying genes associated with genetic control of color polymorphism in the pearl oyster Pinctada margaritifera var. cumingii (Linnaeus 1758) using a comparative whole genome pool-sequencing approach – <i>Evolutionary Applications, https://doi.org/10.1111/eva.13464</i>'
+
+
+<div style="text-align: center;"> <img src="/images/Stenger_2022a.png" style="width: 1600px; height: auto;"> </div>
+
+
