@@ -12,3 +12,8 @@ Today, it is common knowledge that environmental factors can change the color of
 [Download paper here](https://www.frontiersin.org/articles/10.3389/fgene.2021.630290/full)
 
 Recommended citation: 'Stenger P-L, Ky C-L, Reisser CMO, Cosseau C, Grunau C, Mege M, Planes S and Vidal-Dupiol J (2021) Environmentally Driven Color Variation in the Pearl Oyster *Pinctada margaritifera* var. *cumingii* (Linnaeus, 1758) Is Associated With Differential Methylation of CpGs in Pigment and Biomineralization-Related Genes. <i>Front. Genet. 12:630290. doi: 10.3389/fgene.2021.630290</i>'
+
+
+<div style="text-align: center;"> <img src="/images/Stenger_2021b.png" style="width: 1600px; height: auto;"> </div>
+
+
