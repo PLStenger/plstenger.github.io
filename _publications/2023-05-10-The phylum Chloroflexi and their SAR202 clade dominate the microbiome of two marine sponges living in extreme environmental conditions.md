@@ -13,4 +13,6 @@ The capacity of marine sponges to cope with environmental changes is often attri
 
 Recommended citation: 'Maggioni, F., Stenger, P. L., Jourand, P., & Majorel, C. (2023). The phylum Chloroflexi and their SAR 202 clade dominate the microbiome of two marine sponges living in extreme environmental conditions. Marine Ecology, 44(5), e12757, https://doi.org/10.1111/maec.12757.'
 
+<div style="text-align: center;"> <img src="/images/Stenger_2023c.png" style="width: 1600px; height: auto;"> </div>
+
 
