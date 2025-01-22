@@ -25,3 +25,7 @@ Why fight if you can run? Strategies of the brown algal genus Lobophora (Dictyot
 [Download paper here](https://www.researchgate.net/publication/316442155_Why_fight_if_you_can_run_Strategies_of_the_brown_algal_genus_Lobophora_Dictyotales_Phaeophyceae_against_herbivores)
 
 Recommended citation: Vieira, C., Stenger, PL., Moleana, T., De Clerck, O., & Payri, C. (2015) - working paper - from Vieira Thesis 2015.
+
+<div style="text-align: center;"> <img src="/images/Vieira2015.png" style="width: 1600px; height: auto;"> </div>
+
+
