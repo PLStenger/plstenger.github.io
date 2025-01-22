@@ -17,3 +17,8 @@ The bivalve *Pinctada margaritifera* has the capacity to produce the most varied
 <br/><img src='/images/2019-ImaginR_depth.png'>
 
 Recommended citation: Stenger, P. L., Vidal-Dupiol, J., Reisser, C., Planes, S., & Ky, C. L. (2019). &quot;Colour plasticity in the shells and pearls of animal graft model <i>Pinctada margaritifera</i> assessed by HSV colour quantification.&quot; <i> Scientific reports, 9(1), 1-10.</i>. 1(1).
+
+
+<div style="text-align: center;"> <img src="/images/Stenger_2019.png" style="width: 1600px; height: auto;"> </div>
+
+
