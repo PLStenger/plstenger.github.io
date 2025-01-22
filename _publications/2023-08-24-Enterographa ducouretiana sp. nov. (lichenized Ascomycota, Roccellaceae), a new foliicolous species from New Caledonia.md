@@ -13,4 +13,4 @@ Enterographa ducouretiana is described as new to science from New Caledonia. It 
 
 Recommended citation: 'Lebreton, E., Carriconde, F., Brouste, D., Lespagnol, A., Stenger, P. L., Sérusiaux, E., & Ertz, D. (2023). <i>Enterographa ducouretiana</i> sp. nov.(lichenized Ascomycota, Roccellaceae), a new foliicolous species from New Caledonia. Phytotaxa, 609(3), 247-252, https://doi.org/10.11646/phytotaxa.609.3.8'
 
-
+<div style="text-align: center;"> <img src="/images/Stenger_2023a.png" style="width: 1600px; height: auto;"> </div>
