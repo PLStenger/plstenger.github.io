@@ -12,3 +12,8 @@ Due to their central role in ecosystems functioning and their ability to rapidly
 [Download paper here](https://www.sciencedirect.com/science/article/pii/S0925857421002718)
 
 Recommended citation: 'Fernandez Nuñez N, Maggia L., Stenger PL., Lelievre M., Letellier K., Gigante S., Manez A., Mournet P., Ripoll J., Carriconde F. (2021) - Potential of high-throughput eDNA sequencing of soil fungi and bacteria for monitoring ecological restoration in ultramafic substrates: The case study of the New Caledonian biodiversity hotspot. – <i>Ecological Engineering, 173, 106416.</i>'
+
+
+<div style="text-align: center;"> <img src="/images/Fernandez_Nunez_2021.png" style="width: 1600px; height: auto;"> </div>
+
+
