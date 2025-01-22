@@ -14,3 +14,8 @@ Juvenile Pacific oysters (*Crassostrea gigas*) are subjected to recurrent episod
 <br/><img src='/images/2020_Delmotte.png'>
 
 Recommended citation: elmotte J, Chaparro C, Galinier R, de Lorgeril J, Petton B, Stenger P-L, Vidal-Dupiol J, Destoumieux-Garzon D, Gueguen Y, Montagnani C, Escoubas J-M and Mitta G (2020) Contribution of Viral Genomic Diversity to Oyster Susceptibility in the Pacific Oyster Mortality Syndrome.&quot; <i>Front. Microbiol. 11:1579. doi: 10.3389/fmicb.2020.01579</i>'
+
+
+<div style="text-align: center;"> <img src="/images/Delmotte2020.png" style="width: 1600px; height: auto;"> </div>
+
+
