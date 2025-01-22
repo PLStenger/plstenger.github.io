@@ -13,4 +13,5 @@ The occurrence and seasonality of the Critically Endangered great hammerhead sha
 
 Recommended citation: 'Boube, T., Azam, C. S., Guilbert, A., Huveneers, C., Papastamatiou, Y. P., Mourier, J., ... & Stenger, P. L. (2023). First insights into the population characteristics and seasonal occurrence of the great hammerhead shark, <i>Sphyrna mokarran</i> (Rüppell, 1837) in the Western Tuamotu archipelago, French Polynesia. Frontiers in Marine Science, 10, 1234059, https://doi.org/10.3389/fmars.2023.1234059.'
 
+<div style="text-align: center;"> <img src="/images/Stenger_2023b.png" style="width: 1600px; height: auto;"> </div>
 
