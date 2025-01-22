@@ -1,9 +1,9 @@
 ---
-title: "2024-12-12 - Social Structure and Habitat Use of New Caledonian Leopard Skinks (Scincidae: Lacertoides pardalis): A Radiotelemetric Study"
+title: "2024-09-30 - Social Structure and Habitat Use of New Caledonian Leopard Skinks (Scincidae: Lacertoides pardalis): A Radiotelemetric Study"
 collection: publications
 permalink: /publication/Deuss_2024
 excerpt: "This study explores the spatial ecology and social structure of *Lacertoides pardalis*, a vulnerable skink species endemic to New Caledonia's ultramafic maquis shrublands. Using radiotelemetry, we reveal home range dynamics, habitat preferences, and intraspecific interactions, providing crucial insights for conservation efforts."
-date: 2024-12-12
+date: 2024-09-30
 venue: 'Journal of Herpetology'
 paperurl: 'https://doi.org/10.1670/22-069'
 citation: 'Deuss M., Bousseyroux A., Stenger P.-L., Jourdan H. (2024). Social Structure and Habitat Use of New Caledonian Leopard Skinks (Scincidae: Lacertoides pardalis): A Radiotelemetric Study. Journal of Herpetology, 148–161, https://doi.org/10.1670/22-069'
