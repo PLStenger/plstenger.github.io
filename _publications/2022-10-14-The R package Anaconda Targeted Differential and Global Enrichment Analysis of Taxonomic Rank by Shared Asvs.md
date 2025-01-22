@@ -12,3 +12,6 @@ Targeted differential and global enrichment analysis of taxonomic rank by shared
 [Download paper here](https://cran.r-project.org/web/packages/Anaconda/index.html)
 
 Recommended citation: 'Stenger, P.-L. The R Package “Anaconda”: Targeted Differential and Global Enrichment Analysis of Taxonomic Rank by Shared Asvs <i>2022, CRAN 1–28. http://dx.doi.org/10.13140/RG.2.2.11117.67048.</i>'
+
+<div style="text-align: center;"> <img src="/images/Stenger_2022b.png" style="width: 1600px; height: auto;"> </div>
+
