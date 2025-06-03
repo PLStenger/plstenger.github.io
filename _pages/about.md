@@ -8,9 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-P.hD in biology and genomics (Pop. genomics, transcriptomics, epigenomics and Metabarcoding). 
+P.hD in biology and genomics (Pop. genomics, transcriptomics, epigenomics, paleogenomics and Metabarcoding). 
 
-## Actual position: 
+## Fourth post-doctoral position:
+PostDoctoral position on the [PaleoLab](https://www.inrae.fr/actualites/naissance-du-paleolab-fouiller-passe-predire-lavenir-lagriculture), within the [Clermont-Auvergne-Rhône-Alpes's INRAE](https://www.inrae.fr/centres/clermont-auvergne-rhone-alpes) in Clermont-Ferrand, France. 
+DNA sequencing of archaeobotanical remains of our modern cultivated plants provides snapshots of the past which, compared to current genetic diversity, allow us to better understand the history of agriculture as a major process in the socio-economic structuring of human civilizations and communities.
+
+## Third position: 
 
 <div style="text-align: justify;"> I am an independent biologist and founder of Omicsphere Analytics (SIRET number 91254042400021) <a href="https://plstenger.github.io/omicsphere_analytics/">(more info here)</a>. I collaborate with various French joint research units (UMRs) based in overseas territories such as New Caledonia, Réunion Island, French Polynesia and Mayotte, as well as with international laboratories in New Zealand, Utah (USA), and Tanzania. My work focuses currently on environmental DNA (eDNA) data analysis, ranging from processing raw data to producing comprehensive results and writing scientific articles. Through these collaborations, I contribute to advancing our understanding of biodiversity and environmental monitoring by applying cutting-edge techniques in eDNA to study ecosystems and species interactions.</div>
 
