@@ -14,7 +14,10 @@ P.hD in biology and environmental genomics (Pop. genomics, transcriptomics, epig
 PostDoctoral position on the [PaleoLab](https://www.inrae.fr/actualites/naissance-du-paleolab-fouiller-passe-predire-lavenir-lagriculture), within the [Clermont-Auvergne-Rhône-Alpes's INRAE](https://www.inrae.fr/centres/clermont-auvergne-rhone-alpes) in Clermont-Ferrand, France. 
 Analysis of ancient DNA in environmental genomics (sedaDNA) from various projects (from the deepsea, through archaeological sediments to detect pollen and analysis of coprolites of Neolithic animals).
 
-<br/><img src='/images/999_PaleoLab_Logo.jpeg'>
+<br>
+
+<div style="text-align: center;"> <img src="/images/PaleoLab.png" style="width: 400px; height: auto;"> </div>
+
 
 ## Third position: 
 
