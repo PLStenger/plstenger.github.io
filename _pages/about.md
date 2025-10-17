@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-P.hD in biology and genomics (Pop. genomics, transcriptomics, epigenomics, paleogenomics and Metabarcoding). 
+P.hD in biology and environmental genomics (Pop. genomics, transcriptomics, epigenomics, paleogenomics and Metabarcoding). 
 
 ## Fourth post-doctoral position:
 PostDoctoral position on the [PaleoLab](https://www.inrae.fr/actualites/naissance-du-paleolab-fouiller-passe-predire-lavenir-lagriculture), within the [Clermont-Auvergne-Rhône-Alpes's INRAE](https://www.inrae.fr/centres/clermont-auvergne-rhone-alpes) in Clermont-Ferrand, France. 
