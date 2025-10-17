@@ -16,7 +16,7 @@ Analysis of ancient DNA in environmental genomics (sedaDNA) from various project
 
 <br>
 
-<div style="text-align: center;"> <img src="/images/PaleoLab.png" style="width: 300px; height: auto;"> </div>
+<div style="text-align: center;"> <img src="/images/Logo PALEOLAB+baseline-GB-Couleur.png" style="width: 400px; height: auto;"> </div>
 
 
 ## Third position: 
