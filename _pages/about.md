@@ -12,7 +12,9 @@ P.hD in biology and genomics (Pop. genomics, transcriptomics, epigenomics, paleo
 
 ## Fourth post-doctoral position:
 PostDoctoral position on the [PaleoLab](https://www.inrae.fr/actualites/naissance-du-paleolab-fouiller-passe-predire-lavenir-lagriculture), within the [Clermont-Auvergne-Rhône-Alpes's INRAE](https://www.inrae.fr/centres/clermont-auvergne-rhone-alpes) in Clermont-Ferrand, France. 
-DNA sequencing of archaeobotanical remains of our modern cultivated plants provides snapshots of the past which, compared to current genetic diversity, allow us to better understand the history of agriculture as a major process in the socio-economic structuring of human civilizations and communities.
+Analysis of ancient DNA in environmental genomics (sedaDNA) from various projects (from the deepsea, through archaeological sediments to detect pollen and analysis of coprolites of Neolithic animals).
+
+<br/><img src='/images/999_PaleoLab_Logo.jpeg'>
 
 ## Third position: 
 
